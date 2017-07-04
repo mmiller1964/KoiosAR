@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{21DE5B14-CC82-491A-A8B8-DCACF8003C18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Log">
+    <Files>
+      <File FileName="MyFirstAmazonAWSApp Status" />
+      <File FileName="MyFirstAmazonAWSApp/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MyFirstAmazonAWSApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MyFirstAmazonAWSApp/Views/Home/Contact.cshtml" Line="6" Column="1" />
+      <File FileName="MyFirstAmazonAWSApp/Program.cs" Line="21" Column="1" />
+      <File FileName="Log" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyFirstAmazonAWSApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/bin/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.deps.json
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/bin/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.runtimeconfig.json
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/bin/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.runtimeconfig.dev.json
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/bin/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.dll
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/bin/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.pdb
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/obj/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.csprojResolveAssemblyReference.cache
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/obj/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.csproj.CoreCompileInputs.cache
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/obj/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.AssemblyInfo.cs
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/obj/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.dll
+/Users/mmiller/Projects/MyFirstAmazonAWSApp/MyFirstAmazonAWSApp/obj/Debug/netcoreapp1.1/MyFirstAmazonAWSApp.pdb
